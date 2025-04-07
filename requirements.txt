@@ -1,0 +1,17 @@
+langchain
+langgraph
+langchain-openai
+unstructured
+unstructured-inference
+chromadb
+gradio
+ragas
+sentence-transformers
+pdfminer.six
+langchainhub
+langchain-experimental
+huggingface_hub
+transformers
+ollama
+pytest
+pdf2image
